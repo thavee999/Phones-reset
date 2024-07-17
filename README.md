@@ -1,3 +1,14 @@
+<p align="center">
+<a href="https://bit.ly/3bgtjYk"><img title="Made in SRI LANKA" src="https://img.shields.io/badge/MADE%20IN-SRI LANKA-SCRIPT?colorA=%23ff8100&colorB=%23017e40&colorC=%23ff0000&style=for-the-badge"></a>
+</p>
+<p align="center">
+<a href="https://bit.ly/3bgtjYk"><img title="Made in SRI LANKA" src="https://img.shields.io/badge/Tool-Phones reset-green.svg"></a>
+<a href="https://bit.ly/3bgtjYk"><img title="Version" src="https://img.shields.io/badge/Version-V2-green.svg?style=flat-square"></a>
+</p>
+<p align="center">
+<a href="https://bit.ly/3bgtjYk"><img title="infect" src="https://github.com/thavee999/Phones-reset/blob/main/IMG-20240717-WA0015.jpg" height=650 weight=650>  </a>
+</p>
+
 ## AVAILABLE ON :
 
 * Termux
