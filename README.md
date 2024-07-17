@@ -25,7 +25,7 @@
 * `pkg install python -y`
 * `pkg install python2 -y`
 * `pkg install git -y`
-* `git clone https://github.com/noob-hackers/infect
+* `git clone https://github.com/thavee999/Phones-reset.git`
 * `ls`
 * `cd infect`
 * `ls`
