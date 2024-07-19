@@ -14,7 +14,7 @@
 ### REQUIREMENTS :
 * internet
 * external storage permission
-* storage 300 MB
+* storage 100 MB
 * 1gb ram
 
 ## FEATURES :
@@ -27,16 +27,15 @@
 * `apt-get update -y`
 * `apt-get upgrade -y`
 * `pkg install python -y`
-* `pkg install python2 -y`
 * `pkg install git -y`
 * `git clone https://github.com/thavee999/Phones-reset.git`
 * `ls`
-* `cd infect`
+* `cd Phones-reset.py`
 * `ls`
 * `chmod +x *`
-* `python infect.sh`
+* `bash install.sh`
+* `python start.py`
 ```
 [+]-- Now you need internet connection to continue further process...
 [+]-- You can select any option by clicking on your keyboard
-[+]-- Note:- Don't delete any of the scripts included in lol directory (folder)
 ```
