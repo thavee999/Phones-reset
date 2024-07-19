@@ -30,7 +30,7 @@
 * `pkg install git -y`
 * `git clone https://github.com/thavee999/Phones-reset.git`
 * `ls`
-* `cd Phones-reset.py`
+* `cd Phones-reset `
 * `ls`
 * `chmod +x *`
 * `bash install.sh`
