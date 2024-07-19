@@ -39,3 +39,10 @@
 [+]-- Now you need internet connection to continue further process...
 [+]-- You can select any option by clicking on your keyboard
 ```
+## SCREEN SHOTS [Termux]
+
+<br>
+<p align="center">
+<img width="50%" src="https://user-images.githubusercontent.com/49580304/96560925-c32d5880-1273-11eb-99e6-f6c85fa00783.jpg"/>
+<img width="46%" src="https://user-images.githubusercontent.com/49580304/96560932-c4f71c00-1273-11eb-98d5-78210392ad54.jpg"/>
+</p>
