@@ -43,6 +43,5 @@
 
 <br>
 <p align="center">
-<img width="50%" src="https://user-images.githubusercontent.com/49580304/96560925-c32d5880-1273-11eb-99e6-f6c85fa00783.jpg"/>
-<img width="46%" src="https://user-images.githubusercontent.com/49580304/96560932-c4f71c00-1273-11eb-98d5-78210392ad54.jpg"/>
+<img width="50%" src="https://github.com/thavee999/Phones-reset/blob/main/Screenshot_2024-07-19-13-09-06-77_84d3000e3f4017145260f7618db1d683.jpg"/>
 </p>
