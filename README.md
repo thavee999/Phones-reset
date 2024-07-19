@@ -14,7 +14,7 @@
 ### REQUIREMENTS :
 * internet
 * external storage permission
-* storage 100 MB
+* storage 400 MB
 * 1gb ram
 
 ## FEATURES :
